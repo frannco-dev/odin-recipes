@@ -1,0 +1,25 @@
+* {
+    font-family: Helvetica, Verdana, sans-serif;
+}
+
+h1 {
+    color: black;
+    background-color: cornflowerblue;
+}
+
+.home-list {
+    font-weight: bold;
+}
+
+h2 {
+    background-color: rgb(177, 209, 236);
+}
+
+.description {
+    font-family: 'Courier New';
+}
+
+.great-img {
+    height: 500px;
+    width: auto;
+}
